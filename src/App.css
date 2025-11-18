@@ -1,0 +1,33 @@
+body{
+  background-image:url('./assets/Background_note.png') ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+}
+
+.container {
+    width: 500px;
+    margin: 40px auto;
+  
+    border-radius: 10px;
+
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    box-shadow: inset -6px -4px 2px rgba(255, 255, 255, 0.03);
+    border: 1.5px solid rgba(225, 255, 255, 0.326);
+    color: #fff;
+    padding: 15px;
+    min-height:140px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    word-wrap:break-word;
+  }
+.title 
+  {
+    text-align: center;
+  }

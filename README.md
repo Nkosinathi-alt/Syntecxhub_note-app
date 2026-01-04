@@ -28,3 +28,6 @@ The application uses browser local storage to persist data between sessions.
 2. Navigate to the project directory
 3. Run `npm install`
 4. Run `npm run dev`
+
+## Screenshot
+![image alt](https://github.com/Nkosinathi-alt/Syntecxhub_note-app/blob/e687783401c714fa851fef08dc52b4a26616d5c7/Screenshot_4-1-2026_181156_localhost.jpeg)
